@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "msg": null,
+  "success": true,
+  "data": [
+    {
+      "pointId": "1478274278743695361",
+      "pointType": "warehouse",
+      "lat": "120.72429495980127,28.02312397812617",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478277078340952066",
+      "pointType": "warehouse",
+      "lat": "120.71753071590473,27.99697969455012",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478341205116436482",
+      "pointType": "warehouse",
+      "lat": "120.70160304398229,27.98881998397507",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478341675071422466",
+      "pointType": "warehouse",
+      "lat": "120.70160304398229,27.98881998397507",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478348194269741058",
+      "pointType": "warehouse",
+      "lat": "120.72198631123287,27.992960775983214",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478669808397262850",
+      "pointType": "warehouse",
+      "lat": "120.70596054094015,27.99953134067597",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478716737814528002",
+      "pointType": "warehouse",
+      "lat": "120.70531376097318,28.00463441256252",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1478912063775178753",
+      "pointType": "warehouse",
+      "lat": "120.70380460771692,28.003741392613755",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1479365207911071745",
+      "pointType": "warehouse",
+      "lat": "120.72927398549133,27.99226856120145",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1481162151025209345",
+      "pointType": "warehouse",
+      "lat": "120.71186881934888,27.92814418420085",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1481230699026239490",
+      "pointType": "warehouse",
+      "lat": "120.75993907044676,27.948389463697808",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1481438341686415362",
+      "pointType": "warehouse",
+      "lat": "120.62848109558493,28.046157027130235",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1481462926397956097",
+      "pointType": "warehouse",
+      "lat": "120.61467498021705,28.06307170733584",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1481574098303291393",
+      "pointType": "warehouse",
+      "lat": "120.69157391743235,28.048586078289986",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1483603243368767490",
+      "pointType": "warehouse",
+      "lat": "120.66430347816716,28.02508118339457",
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1486172751119876098",
+      "pointType": "warehouse",
+      "lat": null,
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1486213610708213762",
+      "pointType": "warehouse",
+      "lat": null,
+      "instructionTeam": null
+    },
+    {
+      "pointId": "1486531894955548673",
+      "pointType": "warehouse",
+      "lat": null,
+      "instructionTeam": null
+    }
+  ]
+}
